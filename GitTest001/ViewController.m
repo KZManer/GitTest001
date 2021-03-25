@@ -18,5 +18,11 @@
     self.view.backgroundColor = [UIColor redColor];
 }
 
+- (void)test001 {
+    
+}
 
+- (void)test002 {
+    
+}
 @end
