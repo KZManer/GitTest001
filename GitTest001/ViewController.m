@@ -16,6 +16,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
+    
+    //kzdev分支添加内容001
 }
 
 - (void)test001 {
